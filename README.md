@@ -1,2 +1,1 @@
-# Vineet
-Odoo_internship
+# Vineetpatil/Odoo_internship.git
